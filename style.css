@@ -1,0 +1,20 @@
+.body{
+    background-color: #FCFAEE;
+}
+
+img[alt="Me"] {
+    border-radius: 5%;
+}
+
+.Faiq{
+    color: #507687;
+}
+
+.btn.btn-light.px-4.me-md-2 {
+    background-color: #507687;
+    color: #FCFAEE;
+}
+
+h2{
+    color: #507687
+}
